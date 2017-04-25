@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReadECG</string>
+    <string name="hello_world">读取数据并画图</string>
+    <string name="action_settings">Settings</string>
+     <string name="devicename">设备名称：</string>
+    <string name="devicestatus">设备的状态</string>
+
+</resources>
